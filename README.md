@@ -55,4 +55,4 @@ The animated demonstration below captures the real-time operational flow of the 
 > [!NOTE]
 > This repository is a **showcase portfolio** representing the architectural design, frontend interface, and data engineering achievements of the project. The core scraper and backend source code (`obrascan-core`) are hosted in a secure, private repository to comply with copyright regulations and protect proprietary logic.
 
-© 2026 Marcos V. F. Guimarães (@MarktheProg). All Rights Reserved.
+© 2026 Marcos V. F. Guimarães (@marcos_dataops). All Rights Reserved.
