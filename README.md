@@ -1,6 +1,6 @@
 # Obrascan v2.1 — Advanced Real-Time E-Commerce Scraping & Data Pipeline
 
-Author: **Marcos V. F. Guimarães** ([GitHub Portfolio](https://github.com/MarktheProg))
+Author: **Marcos V. F. Guimarães** ([GitHub Portfolio](https://github.com/marcos-dataops))
 
 ![Obrascan Dashboard](Capturas/painel.png)
 
